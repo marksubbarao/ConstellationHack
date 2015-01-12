@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<FileCabinet HeaderSize="0x00000548">
+  <Files>
+    <File Name="Big Dipper.wwtxml" Size="37144" Offset="0" />
+    <File Name="a7045ae6-9fe9-48df-9280-6f95935a0e87\4424fd33-a4a6-432d-8e1b-0259c4846d13.thumb.png" Size="469" Offset="37144" />
+    <File Name="a7045ae6-9fe9-48df-9280-6f95935a0e87\00c0143e-93ca-4a9e-80e6-81c61b3ef12b.thumb.png" Size="460" Offset="37613" />
+    <File Name="a7045ae6-9fe9-48df-9280-6f95935a0e87\6a36bdec-bfaf-47c9-8966-c801dc6a3dcd.thumb.png" Size="463" Offset="38073" />
+    <File Name="a7045ae6-9fe9-48df-9280-6f95935a0e87\45256f5a-e6c5-4356-bc0e-68e61bb9676d.thumb.png" Size="449" Offset="38536" />
+    <File Name="a7045ae6-9fe9-48df-9280-6f95935a0e87\fc2af0a1-857d-4f4f-9da8-42ffab5f1bea.thumb.png" Size="421" Offset="38985" />
+    <File Name="a7045ae6-9fe9-48df-9280-6f95935a0e87\abcfcf54-3794-4047-848c-56d8ee40178e.thumb.png" Size="491" Offset="39406" />
+    <File Name="a7045ae6-9fe9-48df-9280-6f95935a0e87\b97c07c4-f09f-49ed-adfb-0e64ebb6ffda.thumb.png" Size="479" Offset="39897" />
+    <File Name="a7045ae6-9fe9-48df-9280-6f95935a0e87\d720eeea-1a98-48d1-a964-a1dc7d6665f3.thumb.png" Size="457" Offset="40376" />
+    <File Name="a7045ae6-9fe9-48df-9280-6f95935a0e87\00160fae-54ff-4d11-92fd-364342bf4b67.txt" Size="328" Offset="40833" />
+  </Files>
+</FileCabinet>ï»¿<?xml version='1.0' encoding='UTF-8'?>
+<Tour ID="a7045ae6-9fe9-48df-9280-6f95935a0e87" Title="Big Dipper" Descirption="" Description="" RunTime="45" Author="" AuthorEmail="" OrganizationUrl="" OrganizationName="None" Keywords="" UserLevel="Beginner" Classification="0" Taxonomy="" DomeMode="False" TimeLineTour="False">
+  <TourStops>
+    <TourStop Id="4424fd33-a4a6-432d-8e1b-0259c4846d13" Name="" Description="Big Dipper" Thumbnail="" Duration="00:00:10" Master="False" TransitionType="Slew" TransitionTime="2" TransitionOutTime="2" TransitionHoldTime="4" NextSlide="Next" InterpolationType="Linear" HasLocation="True" LocationAltitude="100" LocationLat="47.64222" LocationLng="-122.142" HasTime="True" StartTime="1/8/2015 9:09:36 PM" EndTime="1/8/2015 9:09:36 PM" ActualPlanetScale="True" ShowClouds="True" EarthCutawayView="False" ShowConstellationBoundries="False" ShowConstellationFigures="True" ShowConstellationSelection="False" ShowEcliptic="False" ShowElevationModel="True" ShowFieldOfView="False" ShowGrid="False" ShowHorizon="False" ShowHorizonPanorama="False" ShowMoonsAsPointSource="False" ShowSolarSystem="True" FovTelescope="318863549" FovEyepiece="0" FovCamera="-912312510" LocalHorizonMode="False" GalacticMode="False" FadeInOverlays="False" SolarSystemStars="False" SolarSystemMilkyWay="False" SolarSystemCosmos="True" SolarSystemCMB="False" SolarSystemOrbits="False" SolarSystemMinorOrbits="False" SolarSystemOverlays="False" SolarSystemLighting="True" ShowISSModel="False" SolarSystemScale="1" MinorPlanetsFilter="2147483647" PlanetOrbitsFilter="2147483647" SolarSystemMultiRes="True" SolarSystemMinorPlanets="False" SolarSystemPlanets="False" ShowEarthSky="False" ShowEquatorialGridText="False" ShowGalacticGrid="False" ShowGalacticGridText="False" ShowEclipticGrid="False" ShowEclipticGridText="False" ShowEclipticOverviewText="False" ShowAltAzGrid="False" ShowAltAzGridText="False" ShowPrecessionChart="False" ConstellationPictures="False" ConstellationsEnabled="" ShowConstellationLabels="True" ShowSkyOverlays="True" ShowConstellations="False" ShowSkyNode="True" ShowSkyGrids="True" SkyOverlaysIn3d="False" ConstellationFiguresFilter="-1,-1,33554431" ConstellationBoundariesFilter="-1,-1,33554431" ConstellationNamesFilter="-1,-1,33554431" ConstellationArtFilter="-1,-1,33554431">
+      <Place Name="Current Screen" DataSetType="SolarSystem" Lat="-50.341" Lng="-119.773309569016" Constellation="" Classification="Unidentified" Magnitude="0" Distance="0" AngularSize="60" ZoomLevel="0.619747438152767" Rotation="0" Angle="0" Opacity="100" Target="Sun" ViewTarget="0.00257362695576173, -0.00357658678087629, -0.00147233836671248" TargetReferenceFrame="" DomeAlt="0" DomeAz="0">
+        <Description><![CDATA[]]></Description>
+        <BackgroundImageSet>
+          <ImageSet Generic="False" DataSetType="SolarSystem" BandPass="Visible" Name="3D Solar System View" Url="http://SolarSystem" DemUrl="" BaseTileLevel="0" TileLevels="0" BaseDegreesPerTile="180" FileType=".png" BottomsUp="False" Projection="Toast" QuadTreeMap="0123" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False" WidthFactor="1" MeanRadius="0" ReferenceFrame="Sun">
+            <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=SolarSystem</ThumbnailUrl>
+          </ImageSet>
+        </BackgroundImageSet>
+      </Place>
+      <EndTarget Name="End Place" DataSetType="SolarSystem" Lat="-51.6574769019439" Lng="-118.933309567551" Constellation="LUP" Classification="Unidentified" Magnitude="0" Distance="0" AngularSize="60" ZoomLevel="12351498.3789063" Rotation="0" Angle="0" Opacity="100" Target="Custom" ViewTarget="2765119.37259627, -3994489.46959561, -1528525.98370958" TargetReferenceFrame="" DomeAlt="0" DomeAz="0">
+        <Description><![CDATA[]]></Description>
+      </EndTarget>
+      <Overlays />
+      <VisibleLayers>
+        <Layer StartOpacity="1" EndOpacity="1" ParamCount="5" StartParam0="0" EndParam0="0" StartParam1="1" EndParam1="1" StartParam2="1" EndParam2="1" StartParam3="1" EndParam3="1" StartParam4="1" EndParam4="1">00160fae-54ff-4d11-92fd-364342bf4b67</Layer>
+      </VisibleLayers>
+    </TourStop>
+    <TourStop Id="00c0143e-93ca-4a9e-80e6-81c61b3ef12b" Name="" Description="" Thumbnail="" Duration="00:00:05" Master="False" TransitionType="Slew" TransitionTime="2" TransitionOutTime="2" TransitionHoldTime="4" NextSlide="Next" InterpolationType="Linear" HasLocation="True" LocationAltitude="100" LocationLat="47.64222" LocationLng="-122.142" HasTime="True" StartTime="1/8/2015 9:09:36 PM" EndTime="1/8/2015 9:09:36 PM" ActualPlanetScale="True" ShowClouds="True" EarthCutawayView="False" ShowConstellationBoundries="False" ShowConstellationFigures="True" ShowConstellationSelection="False" ShowEcliptic="False" ShowElevationModel="True" ShowFieldOfView="False" ShowGrid="False" ShowHorizon="False" ShowHorizonPanorama="False" ShowMoonsAsPointSource="False" ShowSolarSystem="True" FovTelescope="318863549" FovEyepiece="0" FovCamera="-912312510" LocalHorizonMode="False" GalacticMode="False" FadeInOverlays="False" SolarSystemStars="False" SolarSystemMilkyWay="False" SolarSystemCosmos="True" SolarSystemCMB="False" SolarSystemOrbits="False" SolarSystemMinorOrbits="False" SolarSystemOverlays="False" SolarSystemLighting="True" ShowISSModel="False" SolarSystemScale="1" MinorPlanetsFilter="2147483647" PlanetOrbitsFilter="2147483647" SolarSystemMultiRes="True" SolarSystemMinorPlanets="False" SolarSystemPlanets="False" ShowEarthSky="False" ShowEquatorialGridText="False" ShowGalacticGrid="False" ShowGalacticGridText="False" ShowEclipticGrid="False" ShowEclipticGridText="False" ShowEclipticOverviewText="False" ShowAltAzGrid="False" ShowAltAzGridText="False" ShowPrecessionChart="False" ConstellationPictures="False" ConstellationsEnabled="" ShowConstellationLabels="True" ShowSkyOverlays="True" ShowConstellations="False" ShowSkyNode="True" ShowSkyGrids="True" SkyOverlaysIn3d="False" ConstellationFiguresFilter="-1,-1,33554431" ConstellationBoundariesFilter="-1,-1,33554431" ConstellationNamesFilter="-1,-1,33554431" ConstellationArtFilter="-1,-1,33554431">
+      <Place Name="Current Screen" DataSetType="SolarSystem" Lat="-51.6574769019439" Lng="-118.933309567551" Constellation="ARI" Classification="Unidentified" Magnitude="0" Distance="0" AngularSize="60" ZoomLevel="12351498.3789063" Rotation="0" Angle="0" Opacity="100" Target="Custom" ViewTarget="2765119.37259627, -3994489.46959561, -1528525.98370958" TargetReferenceFrame="" DomeAlt="0" DomeAz="0">
+        <Description><![CDATA[]]></Description>
+        <BackgroundImageSet>
+          <ImageSet Generic="False" DataSetType="SolarSystem" BandPass="Visible" Name="3D Solar System View" Url="http://SolarSystem" DemUrl="" BaseTileLevel="0" TileLevels="0" BaseDegreesPerTile="180" FileType=".png" BottomsUp="False" Projection="Toast" QuadTreeMap="0123" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False" WidthFactor="1" MeanRadius="0" ReferenceFrame="Sun">
+            <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=SolarSystem</ThumbnailUrl>
+          </ImageSet>
+        </BackgroundImageSet>
+      </Place>
+      <EndTarget Name="End Place" DataSetType="SolarSystem" Lat="-49.8574769019438" Lng="-62.7133095675515" Constellation="ARI" Classification="Unidentified" Magnitude="0" Distance="0" AngularSize="60" ZoomLevel="12351498.3789063" Rotation="0" Angle="0" Opacity="100" Target="Custom" ViewTarget="2765119.37259627, -3994489.46959561, -1528525.98370958" TargetReferenceFrame="" DomeAlt="0" DomeAz="0">
+        <Description><![CDATA[]]></Description>
+      </EndTarget>
+      <Overlays>
+        <Overlay Id="439d6386-4081-4420-9bba-7ab8b0bf0d29" Type="TerraViewer.TextOverlay" Name="Big Dipper" X="967.1445" Y="895.79" Width="246.8124" Height="59.62499" Rotation="0" Color="ARGBColor:255:221:221:221" Url="" LinkID="" Animate="False" Anchor="Screen">
+          <Text>
+            <TextObject Bold="False" Italic="False" Underline="False" FontSize="36" FontName="Arial" ForgroundColor="ARGBColor:255:221:221:221" BackgroundColor="NamedColor:Black" BorderStyle="None">Big Dipper</TextObject>
+          </Text>
+        </Overlay>
+      </Overlays>
+      <VisibleLayers>
+        <Layer StartOpacity="1" EndOpacity="1" ParamCount="5" StartParam0="0" EndParam0="0" StartParam1="1" EndParam1="1" StartParam2="1" EndParam2="1" StartParam3="1" EndParam3="1" StartParam4="1" EndParam4="1">00160fae-54ff-4d11-92fd-364342bf4b67</Layer>
+      </VisibleLayers>
+    </TourStop>
+    <TourStop Id="6a36bdec-bfaf-47c9-8966-c801dc6a3dcd" Name="" Description="" Thumbnail="" Duration="00:00:05" Master="False" TransitionType="Slew" TransitionTime="2" TransitionOutTime="2" TransitionHoldTime="4" NextSlide="Next" InterpolationType="Linear" HasLocation="True" LocationAltitude="100" LocationLat="47.64222" LocationLng="-122.142" HasTime="True" StartTime="1/8/2015 9:09:36 PM" EndTime="1/8/2015 9:09:36 PM" ActualPlanetScale="True" ShowClouds="True" EarthCutawayView="False" ShowConstellationBoundries="False" ShowConstellationFigures="True" ShowConstellationSelection="False" ShowEcliptic="False" ShowElevationModel="True" ShowFieldOfView="False" ShowGrid="False" ShowHorizon="False" ShowHorizonPanorama="False" ShowMoonsAsPointSource="False" ShowSolarSystem="True" FovTelescope="318863549" FovEyepiece="0" FovCamera="-912312510" LocalHorizonMode="False" GalacticMode="False" FadeInOverlays="False" SolarSystemStars="False" SolarSystemMilkyWay="False" SolarSystemCosmos="True" SolarSystemCMB="False" SolarSystemOrbits="False" SolarSystemMinorOrbits="False" SolarSystemOverlays="False" SolarSystemLighting="True" ShowISSModel="False" SolarSystemScale="1" MinorPlanetsFilter="2147483647" PlanetOrbitsFilter="2147483647" SolarSystemMultiRes="True" SolarSystemMinorPlanets="False" SolarSystemPlanets="False" ShowEarthSky="False" ShowEquatorialGridText="False" ShowGalacticGrid="False" ShowGalacticGridText="False" ShowEclipticGrid="False" ShowEclipticGridText="False" ShowEclipticOverviewText="False" ShowAltAzGrid="False" ShowAltAzGridText="False" ShowPrecessionChart="False" ConstellationPictures="False" ConstellationsEnabled="" ShowConstellationLabels="True" ShowSkyOverlays="True" ShowConstellations="False" ShowSkyNode="True" ShowSkyGrids="True" SkyOverlaysIn3d="False" ConstellationFiguresFilter="-1,-1,33554431" ConstellationBoundariesFilter="-1,-1,33554431" ConstellationNamesFilter="-1,-1,33554431" ConstellationArtFilter="-1,-1,33554431">
+      <Place Name="Current Screen" DataSetType="SolarSystem" Lat="-49.8574769019438" Lng="-62.7133095675515" Constellation="ARI" Classification="Unidentified" Magnitude="0" Distance="0" AngularSize="60" ZoomLevel="12351498.3789063" Rotation="0" Angle="0" Opacity="100" Target="Custom" ViewTarget="2765119.37259627, -3994489.46959561, -1528525.98370958" TargetReferenceFrame="" DomeAlt="0" DomeAz="0">
+        <Description><![CDATA[]]></Description>
+        <BackgroundImageSet>
+          <ImageSet Generic="False" DataSetType="SolarSystem" BandPass="Visible" Name="3D Solar System View" Url="http://SolarSystem" DemUrl="" BaseTileLevel="0" TileLevels="0" BaseDegreesPerTile="180" FileType=".png" BottomsUp="False" Projection="Toast" QuadTreeMap="0123" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False" WidthFactor="1" MeanRadius="0" ReferenceFrame="Sun">
+            <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=SolarSystem</ThumbnailUrl>
+          </ImageSet>
+        </BackgroundImageSet>
+      </Place>
+      <EndTarget Name="End Place" DataSetType="SolarSystem" Lat="-50.3974769019438" Lng="-5.05330956756222" Constellation="ARI" Classification="Unidentified" Magnitude="0" Distance="0" AngularSize="60" ZoomLevel="12351498.3789063" Rotation="0" Angle="0" Opacity="100" Target="Custom" ViewTarget="2765119.37259627, -3994489.46959561, -1528525.98370958" TargetReferenceFrame="" DomeAlt="0" DomeAz="0">
+        <Description><![CDATA[]]></Description>
+      </EndTarget>
+      <Overlays>
+        <Overlay Id="439d6386-4081-4420-9bba-7ab8b0bf0d29" Type="TerraViewer.TextOverlay" Name="Big Dipper" X="967.1445" Y="895.79" Width="246.8124" Height="59.62499" Rotation="0" Color="ARGBColor:255:221:221:221" Url="" LinkID="" Animate="False" Anchor="Screen">
+          <Text>
+            <TextObject Bold="False" Italic="False" Underline="False" FontSize="36" FontName="Arial" ForgroundColor="ARGBColor:255:221:221:221" BackgroundColor="NamedColor:Black" BorderStyle="None">Big Dipper</TextObject>
+          </Text>
+        </Overlay>
+      </Overlays>
+      <VisibleLayers>
+        <Layer StartOpacity="1" EndOpacity="1" ParamCount="5" StartParam0="0" EndParam0="0" StartParam1="1" EndParam1="1" StartParam2="1" EndParam2="1" StartParam3="1" EndParam3="1" StartParam4="1" EndParam4="1">00160fae-54ff-4d11-92fd-364342bf4b67</Layer>
+      </VisibleLayers>
+    </TourStop>
+    <TourStop Id="45256f5a-e6c5-4356-bc0e-68e61bb9676d" Name="" Description="" Thumbnail="" Duration="00:00:05" Master="False" TransitionType="Slew" TransitionTime="2" TransitionOutTime="2" TransitionHoldTime="4" NextSlide="Next" InterpolationType="Linear" HasLocation="True" LocationAltitude="100" LocationLat="47.64222" LocationLng="-122.142" HasTime="True" StartTime="1/8/2015 9:09:36 PM" EndTime="1/8/2015 9:09:36 PM" ActualPlanetScale="True" ShowClouds="True" EarthCutawayView="False" ShowConstellationBoundries="False" ShowConstellationFigures="True" ShowConstellationSelection="False" ShowEcliptic="False" ShowElevationModel="True" ShowFieldOfView="False" ShowGrid="False" ShowHorizon="False" ShowHorizonPanorama="False" ShowMoonsAsPointSource="False" ShowSolarSystem="True" FovTelescope="318863549" FovEyepiece="0" FovCamera="-912312510" LocalHorizonMode="False" GalacticMode="False" FadeInOverlays="False" SolarSystemStars="False" SolarSystemMilkyWay="False" SolarSystemCosmos="True" SolarSystemCMB="False" SolarSystemOrbits="False" SolarSystemMinorOrbits="False" SolarSystemOverlays="False" SolarSystemLighting="True" ShowISSModel="False" SolarSystemScale="1" MinorPlanetsFilter="2147483647" PlanetOrbitsFilter="2147483647" SolarSystemMultiRes="True" SolarSystemMinorPlanets="False" SolarSystemPlanets="False" ShowEarthSky="False" ShowEquatorialGridText="False" ShowGalacticGrid="False" ShowGalacticGridText="False" ShowEclipticGrid="False" ShowEclipticGridText="False" ShowEclipticOverviewText="False" ShowAltAzGrid="False" ShowAltAzGridText="False" ShowPrecessionChart="False" ConstellationPictures="False" ConstellationsEnabled="" ShowConstellationLabels="True" ShowSkyOverlays="True" ShowConstellations="False" ShowSkyNode="True" ShowSkyGrids="True" SkyOverlaysIn3d="False" ConstellationFiguresFilter="-1,-1,33554431" ConstellationBoundariesFilter="-1,-1,33554431" ConstellationNamesFilter="-1,-1,33554431" ConstellationArtFilter="-1,-1,33554431">
+      <Place Name="Current Screen" DataSetType="SolarSystem" Lat="-50.3974769019438" Lng="-5.05330956756222" Constellation="ARI" Classification="Unidentified" Magnitude="0" Distance="0" AngularSize="60" ZoomLevel="12351498.3789063" Rotation="0" Angle="0" Opacity="100" Target="Custom" ViewTarget="2765119.37259627, -3994489.46959561, -1528525.98370958" TargetReferenceFrame="" DomeAlt="0" DomeAz="0">
+        <Description><![CDATA[]]></Description>
+        <BackgroundImageSet>
+          <ImageSet Generic="False" DataSetType="SolarSystem" BandPass="Visible" Name="3D Solar System View" Url="http://SolarSystem" DemUrl="" BaseTileLevel="0" TileLevels="0" BaseDegreesPerTile="180" FileType=".png" BottomsUp="False" Projection="Toast" QuadTreeMap="0123" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False" WidthFactor="1" MeanRadius="0" ReferenceFrame="Sun">
+            <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=SolarSystem</ThumbnailUrl>
+          </ImageSet>
+        </BackgroundImageSet>
+      </Place>
+      <EndTarget Name="End Place" DataSetType="SolarSystem" Lat="-51.1774769019438" Lng="51.7666904324265" Constellation="ARI" Classification="Unidentified" Magnitude="0" Distance="0" AngularSize="60" ZoomLevel="12351498.3789063" Rotation="0" Angle="0" Opacity="100" Target="Custom" ViewTarget="2765119.37259627, -3994489.46959561, -1528525.98370958" TargetReferenceFrame="" DomeAlt="0" DomeAz="0">
+        <Description><![CDATA[]]></Description>
+      </EndTarget>
+      <Overlays>
+        <Overlay Id="439d6386-4081-4420-9bba-7ab8b0bf0d29" Type="TerraViewer.TextOverlay" Name="Big Dipper" X="967.1445" Y="895.79" Width="246.8124" Height="59.62499" Rotation="0" Color="ARGBColor:255:221:221:221" Url="" LinkID="" Animate="False" Anchor="Screen">
+          <Text>
+            <TextObject Bold="False" Italic="False" Underline="False" FontSize="36" FontName="Arial" ForgroundColor="ARGBColor:255:221:221:221" BackgroundColor="NamedColor:Black" BorderStyle="None">Big Dipper</TextObject>
+          </Text>
+        </Overlay>
+      </Overlays>
+      <VisibleLayers>
+        <Layer StartOpacity="1" EndOpacity="1" ParamCount="5" StartParam0="0" EndParam0="0" StartParam1="1" EndParam1="1" StartParam2="1" EndParam2="1" StartParam3="1" EndParam3="1" StartParam4="1" EndParam4="1">00160fae-54ff-4d11-92fd-364342bf4b67</Layer>
+      </VisibleLayers>
+    </TourStop>
+    <TourStop Id="fc2af0a1-857d-4f4f-9da8-42ffab5f1bea" Name="" Description="" Thumbnail="" Duration="00:00:05" Master="False" TransitionType="Slew" TransitionTime="2" TransitionOutTime="2" TransitionHoldTime="4" NextSlide="Next" InterpolationType="Linear" HasLocation="True" LocationAltitude="100" LocationLat="47.64222" LocationLng="-122.142" HasTime="True" StartTime="1/8/2015 9:09:36 PM" EndTime="1/8/2015 9:09:36 PM" ActualPlanetScale="True" ShowClouds="True" EarthCutawayView="False" ShowConstellationBoundries="False" ShowConstellationFigures="True" ShowConstellationSelection="False" ShowEcliptic="False" ShowElevationModel="True" ShowFieldOfView="False" ShowGrid="False" ShowHorizon="False" ShowHorizonPanorama="False" ShowMoonsAsPointSource="False" ShowSolarSystem="True" FovTelescope="318863549" FovEyepiece="0" FovCamera="-912312510" LocalHorizonMode="False" GalacticMode="False" FadeInOverlays="False" SolarSystemStars="False" SolarSystemMilkyWay="False" SolarSystemCosmos="True" SolarSystemCMB="False" SolarSystemOrbits="False" SolarSystemMinorOrbits="False" SolarSystemOverlays="False" SolarSystemLighting="True" ShowISSModel="False" SolarSystemScale="1" MinorPlanetsFilter="2147483647" PlanetOrbitsFilter="2147483647" SolarSystemMultiRes="True" SolarSystemMinorPlanets="False" SolarSystemPlanets="False" ShowEarthSky="False" ShowEquatorialGridText="False" ShowGalacticGrid="False" ShowGalacticGridText="False" ShowEclipticGrid="False" ShowEclipticGridText="False" ShowEclipticOverviewText="False" ShowAltAzGrid="False" ShowAltAzGridText="False" ShowPrecessionChart="False" ConstellationPictures="False" ConstellationsEnabled="" ShowConstellationLabels="True" ShowSkyOverlays="True" ShowConstellations="False" ShowSkyNode="True" ShowSkyGrids="True" SkyOverlaysIn3d="False" ConstellationFiguresFilter="-1,-1,33554431" ConstellationBoundariesFilter="-1,-1,33554431" ConstellationNamesFilter="-1,-1,33554431" ConstellationArtFilter="-1,-1,33554431">
+      <Place Name="Current Screen" DataSetType="SolarSystem" Lat="-51.1774769019438" Lng="51.7666904324265" Constellation="ARI" Classification="Unidentified" Magnitude="0" Distance="0" AngularSize="60" ZoomLevel="12351498.3789063" Rotation="0" Angle="0" Opacity="100" Target="Custom" ViewTarget="2765119.37259627, -3994489.46959561, -1528525.98370958" TargetReferenceFrame="" DomeAlt="0" DomeAz="0">
+        <Description><![CDATA[]]></Description>
+        <BackgroundImageSet>
+          <ImageSet Generic="False" DataSetType="SolarSystem" BandPass="Visible" Name="3D Solar System View" Url="http://SolarSystem" DemUrl="" BaseTileLevel="0" TileLevels="0" BaseDegreesPerTile="180" FileType=".png" BottomsUp="False" Projection="Toast" QuadTreeMap="0123" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False" WidthFactor="1" MeanRadius="0" ReferenceFrame="Sun">
+            <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=SolarSystem</ThumbnailUrl>
+          </ImageSet>
+        </BackgroundImageSet>
+      </Place>
+      <EndTarget Name="End Place" DataSetType="SolarSystem" Lat="-52.4974769019439" Lng="109.006690432426" Constellation="ARI" Classification="Unidentified" Magnitude="0" Distance="0" AngularSize="60" ZoomLevel="12351498.3789063" Rotation="0" Angle="0" Opacity="100" Target="Custom" ViewTarget="2765119.37259627, -3994489.46959561, -1528525.98370958" TargetReferenceFrame="" DomeAlt="0" DomeAz="0">
+        <Description><![CDATA[]]></Description>
+      </EndTarget>
+      <Overlays>
+        <Overlay Id="439d6386-4081-4420-9bba-7ab8b0bf0d29" Type="TerraViewer.TextOverlay" Name="Big Dipper" X="967.1445" Y="895.79" Width="246.8124" Height="59.62499" Rotation="0" Color="ARGBColor:255:221:221:221" Url="" LinkID="" Animate="False" Anchor="Screen">
+          <Text>
+            <TextObject Bold="False" Italic="False" Underline="False" FontSize="36" FontName="Arial" ForgroundColor="ARGBColor:255:221:221:221" BackgroundColor="NamedColor:Black" BorderStyle="None">Big Dipper</TextObject>
+          </Text>
+        </Overlay>
+      </Overlays>
+      <VisibleLayers>
+        <Layer StartOpacity="1" EndOpacity="1" ParamCount="5" StartParam0="0" EndParam0="0" StartParam1="1" EndParam1="1" StartParam2="1" EndParam2="1" StartParam3="1" EndParam3="1" StartParam4="1" EndParam4="1">00160fae-54ff-4d11-92fd-364342bf4b67</Layer>
+      </VisibleLayers>
+    </TourStop>
+    <TourStop Id="abcfcf54-3794-4047-848c-56d8ee40178e" Name="" Description="" Thumbnail="" Duration="00:00:05" Master="False" TransitionType="Slew" TransitionTime="2" TransitionOutTime="2" TransitionHoldTime="4" NextSlide="Next" InterpolationType="Linear" HasLocation="True" LocationAltitude="100" LocationLat="47.64222" LocationLng="-122.142" HasTime="True" StartTime="1/8/2015 9:09:36 PM" EndTime="1/8/2015 9:09:36 PM" ActualPlanetScale="True" ShowClouds="True" EarthCutawayView="False" ShowConstellationBoundries="False" ShowConstellationFigures="True" ShowConstellationSelection="False" ShowEcliptic="False" ShowElevationModel="True" ShowFieldOfView="False" ShowGrid="False" ShowHorizon="False" ShowHorizonPanorama="False" ShowMoonsAsPointSource="False" ShowSolarSystem="True" FovTelescope="318863549" FovEyepiece="0" FovCamera="-912312510" LocalHorizonMode="False" GalacticMode="False" FadeInOverlays="False" SolarSystemStars="False" SolarSystemMilkyWay="False" SolarSystemCosmos="True" SolarSystemCMB="False" SolarSystemOrbits="False" SolarSystemMinorOrbits="False" SolarSystemOverlays="False" SolarSystemLighting="True" ShowISSModel="False" SolarSystemScale="1" MinorPlanetsFilter="2147483647" PlanetOrbitsFilter="2147483647" SolarSystemMultiRes="True" SolarSystemMinorPlanets="False" SolarSystemPlanets="False" ShowEarthSky="False" ShowEquatorialGridText="False" ShowGalacticGrid="False" ShowGalacticGridText="False" ShowEclipticGrid="False" ShowEclipticGridText="False" ShowEclipticOverviewText="False" ShowAltAzGrid="False" ShowAltAzGridText="False" ShowPrecessionChart="False" ConstellationPictures="False" ConstellationsEnabled="" ShowConstellationLabels="True" ShowSkyOverlays="True" ShowConstellations="False" ShowSkyNode="True" ShowSkyGrids="True" SkyOverlaysIn3d="False" ConstellationFiguresFilter="-1,-1,33554431" ConstellationBoundariesFilter="-1,-1,33554431" ConstellationNamesFilter="-1,-1,33554431" ConstellationArtFilter="-1,-1,33554431">
+      <Place Name="Current Screen" DataSetType="SolarSystem" Lat="-52.4974769019439" Lng="109.006690432426" Constellation="ARI" Classification="Unidentified" Magnitude="0" Distance="0" AngularSize="60" ZoomLevel="12351498.3789063" Rotation="0" Angle="0" Opacity="100" Target="Custom" ViewTarget="2765119.37259627, -3994489.46959561, -1528525.98370958" TargetReferenceFrame="" DomeAlt="0" DomeAz="0">
+        <Description><![CDATA[]]></Description>
+        <BackgroundImageSet>
+          <ImageSet Generic="False" DataSetType="SolarSystem" BandPass="Visible" Name="3D Solar System View" Url="http://SolarSystem" DemUrl="" BaseTileLevel="0" TileLevels="0" BaseDegreesPerTile="180" FileType=".png" BottomsUp="False" Projection="Toast" QuadTreeMap="0123" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False" WidthFactor="1" MeanRadius="0" ReferenceFrame="Sun">
+            <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=SolarSystem</ThumbnailUrl>
+          </ImageSet>
+        </BackgroundImageSet>
+      </Place>
+      <EndTarget Name="End Place" DataSetType="SolarSystem" Lat="-53.2774769019439" Lng="166.186690432412" Constellation="ARI" Classification="Unidentified" Magnitude="0" Distance="0" AngularSize="60" ZoomLevel="12351498.3789063" Rotation="0" Angle="0" Opacity="100" Target="Custom" ViewTarget="2765119.37259627, -3994489.46959561, -1528525.98370958" TargetReferenceFrame="" DomeAlt="0" DomeAz="0">
+        <Description><![CDATA[]]></Description>
+      </EndTarget>
+      <Overlays>
+        <Overlay Id="439d6386-4081-4420-9bba-7ab8b0bf0d29" Type="TerraViewer.TextOverlay" Name="Big Dipper" X="967.1445" Y="895.79" Width="246.8124" Height="59.62499" Rotation="0" Color="ARGBColor:255:221:221:221" Url="" LinkID="" Animate="False" Anchor="Screen">
+          <Text>
+            <TextObject Bold="False" Italic="False" Underline="False" FontSize="36" FontName="Arial" ForgroundColor="ARGBColor:255:221:221:221" BackgroundColor="NamedColor:Black" BorderStyle="None">Big Dipper</TextObject>
+          </Text>
+        </Overlay>
+      </Overlays>
+      <VisibleLayers>
+        <Layer StartOpacity="1" EndOpacity="1" ParamCount="5" StartParam0="0" EndParam0="0" StartParam1="1" EndParam1="1" StartParam2="1" EndParam2="1" StartParam3="1" EndParam3="1" StartParam4="1" EndParam4="1">00160fae-54ff-4d11-92fd-364342bf4b67</Layer>
+      </VisibleLayers>
+    </TourStop>
+    <TourStop Id="b97c07c4-f09f-49ed-adfb-0e64ebb6ffda" Name="" Description="" Thumbnail="" Duration="00:00:05" Master="False" TransitionType="Slew" TransitionTime="2" TransitionOutTime="2" TransitionHoldTime="4" NextSlide="Next" InterpolationType="Linear" HasLocation="True" LocationAltitude="100" LocationLat="47.64222" LocationLng="-122.142" HasTime="True" StartTime="1/8/2015 9:09:36 PM" EndTime="1/8/2015 9:09:36 PM" ActualPlanetScale="True" ShowClouds="True" EarthCutawayView="False" ShowConstellationBoundries="False" ShowConstellationFigures="True" ShowConstellationSelection="False" ShowEcliptic="False" ShowElevationModel="True" ShowFieldOfView="False" ShowGrid="False" ShowHorizon="False" ShowHorizonPanorama="False" ShowMoonsAsPointSource="False" ShowSolarSystem="True" FovTelescope="318863549" FovEyepiece="0" FovCamera="-912312510" LocalHorizonMode="False" GalacticMode="False" FadeInOverlays="False" SolarSystemStars="False" SolarSystemMilkyWay="False" SolarSystemCosmos="True" SolarSystemCMB="False" SolarSystemOrbits="False" SolarSystemMinorOrbits="False" SolarSystemOverlays="False" SolarSystemLighting="True" ShowISSModel="False" SolarSystemScale="1" MinorPlanetsFilter="2147483647" PlanetOrbitsFilter="2147483647" SolarSystemMultiRes="True" SolarSystemMinorPlanets="False" SolarSystemPlanets="False" ShowEarthSky="False" ShowEquatorialGridText="False" ShowGalacticGrid="False" ShowGalacticGridText="False" ShowEclipticGrid="False" ShowEclipticGridText="False" ShowEclipticOverviewText="False" ShowAltAzGrid="False" ShowAltAzGridText="False" ShowPrecessionChart="False" ConstellationPictures="False" ConstellationsEnabled="" ShowConstellationLabels="True" ShowSkyOverlays="True" ShowConstellations="False" ShowSkyNode="True" ShowSkyGrids="True" SkyOverlaysIn3d="False" ConstellationFiguresFilter="-1,-1,33554431" ConstellationBoundariesFilter="-1,-1,33554431" ConstellationNamesFilter="-1,-1,33554431" ConstellationArtFilter="-1,-1,33554431">
+      <Place Name="Current Screen" DataSetType="SolarSystem" Lat="-53.2774769019439" Lng="166.186690432412" Constellation="ARI" Classification="Unidentified" Magnitude="0" Distance="0" AngularSize="60" ZoomLevel="12351498.3789063" Rotation="0" Angle="0" Opacity="100" Target="Custom" ViewTarget="2765119.37259627, -3994489.46959561, -1528525.98370958" TargetReferenceFrame="" DomeAlt="0" DomeAz="0">
+        <Description><![CDATA[]]></Description>
+        <BackgroundImageSet>
+          <ImageSet Generic="False" DataSetType="SolarSystem" BandPass="Visible" Name="3D Solar System View" Url="http://SolarSystem" DemUrl="" BaseTileLevel="0" TileLevels="0" BaseDegreesPerTile="180" FileType=".png" BottomsUp="False" Projection="Toast" QuadTreeMap="0123" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False" WidthFactor="1" MeanRadius="0" ReferenceFrame="Sun">
+            <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=SolarSystem</ThumbnailUrl>
+          </ImageSet>
+        </BackgroundImageSet>
+      </Place>
+      <EndTarget Name="End Place" DataSetType="SolarSystem" Lat="-53.997476901944" Lng="-136.213309567596" Constellation="ARI" Classification="Unidentified" Magnitude="0" Distance="0" AngularSize="60" ZoomLevel="12351498.3789063" Rotation="0" Angle="0" Opacity="100" Target="Custom" ViewTarget="2765119.37259627, -3994489.46959561, -1528525.98370958" TargetReferenceFrame="" DomeAlt="0" DomeAz="0">
+        <Description><![CDATA[]]></Description>
+      </EndTarget>
+      <Overlays>
+        <Overlay Id="439d6386-4081-4420-9bba-7ab8b0bf0d29" Type="TerraViewer.TextOverlay" Name="Big Dipper" X="967.1445" Y="895.79" Width="246.8124" Height="59.62499" Rotation="0" Color="ARGBColor:255:221:221:221" Url="" LinkID="" Animate="False" Anchor="Screen">
+          <Text>
+            <TextObject Bold="False" Italic="False" Underline="False" FontSize="36" FontName="Arial" ForgroundColor="ARGBColor:255:221:221:221" BackgroundColor="NamedColor:Black" BorderStyle="None">Big Dipper</TextObject>
+          </Text>
+        </Overlay>
+      </Overlays>
+      <VisibleLayers>
+        <Layer StartOpacity="1" EndOpacity="1" ParamCount="5" StartParam0="0" EndParam0="0" StartParam1="1" EndParam1="1" StartParam2="1" EndParam2="1" StartParam3="1" EndParam3="1" StartParam4="1" EndParam4="1">00160fae-54ff-4d11-92fd-364342bf4b67</Layer>
+      </VisibleLayers>
+    </TourStop>
+    <TourStop Id="d720eeea-1a98-48d1-a964-a1dc7d6665f3" Name="" Description="" Thumbnail="" Duration="00:00:05" Master="False" TransitionType="Slew" TransitionTime="2" TransitionOutTime="2" TransitionHoldTime="4" NextSlide="Next" InterpolationType="Linear" HasLocation="True" LocationAltitude="100" LocationLat="47.64222" LocationLng="-122.142" HasTime="True" StartTime="1/8/2015 9:09:36 PM" EndTime="1/8/2015 9:09:36 PM" ActualPlanetScale="True" ShowClouds="True" EarthCutawayView="False" ShowConstellationBoundries="False" ShowConstellationFigures="True" ShowConstellationSelection="False" ShowEcliptic="False" ShowElevationModel="True" ShowFieldOfView="False" ShowGrid="False" ShowHorizon="False" ShowHorizonPanorama="False" ShowMoonsAsPointSource="False" ShowSolarSystem="True" FovTelescope="318863549" FovEyepiece="0" FovCamera="-912312510" LocalHorizonMode="False" GalacticMode="False" FadeInOverlays="False" SolarSystemStars="False" SolarSystemMilkyWay="False" SolarSystemCosmos="True" SolarSystemCMB="False" SolarSystemOrbits="False" SolarSystemMinorOrbits="False" SolarSystemOverlays="False" SolarSystemLighting="True" ShowISSModel="False" SolarSystemScale="1" MinorPlanetsFilter="2147483647" PlanetOrbitsFilter="2147483647" SolarSystemMultiRes="True" SolarSystemMinorPlanets="False" SolarSystemPlanets="False" ShowEarthSky="False" ShowEquatorialGridText="False" ShowGalacticGrid="False" ShowGalacticGridText="False" ShowEclipticGrid="False" ShowEclipticGridText="False" ShowEclipticOverviewText="False" ShowAltAzGrid="False" ShowAltAzGridText="False" ShowPrecessionChart="False" ConstellationPictures="False" ConstellationsEnabled="" ShowConstellationLabels="True" ShowSkyOverlays="True" ShowConstellations="False" ShowSkyNode="True" ShowSkyGrids="True" SkyOverlaysIn3d="False" ConstellationFiguresFilter="-1,-1,33554431" ConstellationBoundariesFilter="-1,-1,33554431" ConstellationNamesFilter="-1,-1,33554431" ConstellationArtFilter="-1,-1,33554431">
+      <Place Name="Current Screen" DataSetType="SolarSystem" Lat="-53.997476901944" Lng="-136.213309567596" Constellation="ARI" Classification="Unidentified" Magnitude="0" Distance="0" AngularSize="60" ZoomLevel="12351498.3789063" Rotation="0" Angle="0" Opacity="100" Target="Custom" ViewTarget="2765119.37259627, -3994489.46959561, -1528525.98370958" TargetReferenceFrame="" DomeAlt="0" DomeAz="0">
+        <Description><![CDATA[]]></Description>
+        <BackgroundImageSet>
+          <ImageSet Generic="False" DataSetType="SolarSystem" BandPass="Visible" Name="3D Solar System View" Url="http://SolarSystem" DemUrl="" BaseTileLevel="0" TileLevels="0" BaseDegreesPerTile="180" FileType=".png" BottomsUp="False" Projection="Toast" QuadTreeMap="0123" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False" WidthFactor="1" MeanRadius="0" ReferenceFrame="Sun">
+            <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=SolarSystem</ThumbnailUrl>
+          </ImageSet>
+        </BackgroundImageSet>
+      </Place>
+      <EndTarget Name="End Place" DataSetType="SolarSystem" Lat="-54.297476901944" Lng="-121.153309567595" Constellation="ARI" Classification="Unidentified" Magnitude="0" Distance="0" AngularSize="60" ZoomLevel="12351498.3789063" Rotation="0" Angle="0" Opacity="100" Target="Custom" ViewTarget="2765119.37259627, -3994489.46959561, -1528525.98370958" TargetReferenceFrame="" DomeAlt="0" DomeAz="0">
+        <Description><![CDATA[]]></Description>
+      </EndTarget>
+      <Overlays>
+        <Overlay Id="439d6386-4081-4420-9bba-7ab8b0bf0d29" Type="TerraViewer.TextOverlay" Name="Big Dipper" X="967.1445" Y="895.79" Width="246.8124" Height="59.62499" Rotation="0" Color="ARGBColor:255:221:221:221" Url="" LinkID="" Animate="False" Anchor="Screen">
+          <Text>
+            <TextObject Bold="False" Italic="False" Underline="False" FontSize="36" FontName="Arial" ForgroundColor="ARGBColor:255:221:221:221" BackgroundColor="NamedColor:Black" BorderStyle="None">Big Dipper</TextObject>
+          </Text>
+        </Overlay>
+      </Overlays>
+      <VisibleLayers>
+        <Layer StartOpacity="1" EndOpacity="1" ParamCount="5" StartParam0="0" EndParam0="0" StartParam1="1" EndParam1="1" StartParam2="1" EndParam2="1" StartParam3="1" EndParam3="1" StartParam4="1" EndParam4="1">00160fae-54ff-4d11-92fd-364342bf4b67</Layer>
+      </VisibleLayers>
+    </TourStop>
+  </TourStops>
+  <ReferenceFrames>
+    <ReferenceFrame Name="ISS" Parent="Earth" ReferenceFrameType="Orbital" Reference="Custom" ParentsRoationalBase="False" MeanRadius="130" Oblateness="0" Heading="0" Pitch="0" Roll="0" Scale="1" Tilt="0" Translation="0, 0, 0" RotationalPeriod="0" ZeroRotationDate="0" RepresentativeColor="NamedColor:White" ShowAsPoint="False" ShowOrbitPath="False" StationKeeping="True" SemiMajorAxis="6786255.5575105" SemiMajorAxisScale="Meters" Eccentricity="0.0006647" Inclination="51.6398" ArgumentOfPeriapsis="215.6632" LongitudeOfAscendingNode="175.8004" MeanAnomolyAtEpoch="144.4077" MeanDailyMotion="5590.619658" Epoch="2457028.04694699" />
+  </ReferenceFrames>
+  <Layers>
+    <Layer Id="00160fae-54ff-4d11-92fd-364342bf4b67" Type="TerraViewer.SpreadSheetLayer" Name="Big Dipper" ReferenceFrame="Sky" Color="ARGBColor:255:0:255:255" Opacity="1" StartTime="1/1/0001 12:00:00 AM" EndTime="12/31/9999 11:59:59 PM" FadeSpan="00:00:00" FadeType="None" TimeSeries="False" BeginRange="12/31/9999 11:59:59 PM" EndRange="1/1/0001 12:00:00 AM" Decay="16" CoordinatesType="Spherical" LatColumn="2" LngColumn="1" GeometryColumn="-1" AltType="Distance" MarkerMix="Same_For_All" ColorMap="Per_Column_Literal" MarkerColumn="-1" ColorMapColumn="-1" PlotType="Gaussian" MarkerIndex="0" MarkerScale="Screen" AltUnit="LightYears" AltColumn="0" StartDateColumn="-1" EndDateColumn="-1" SizeColumn="-1" HyperlinkFormat="" HyperlinkColumn="-1" ScaleFactor="64" PointScaleType="Linear" ShowFarSide="True" RaUnits="Degrees" HoverTextColumn="0" XAxisColumn="-1" XAxisReverse="False" YAxisColumn="-1" YAxisReverse="False" ZAxisColumn="-1" ZAxisReverse="False" CartesianScale="Meters" CartesianCustomScale="1" DynamicData="False" AutoUpdate="False" DataSourceUrl="" />
+  </Layers>
+</Tour>‰PNG
+
+   IHDR   `   -   Q^nŠ   sRGB ®Îé   gAMA  ±üa   	pHYs  Ã  ÃÇo¨d  jIDATx^íØ;ka„á³Ş,ÅKa%6–v6¢½¥ş«üí!MvH9ë‘	<ï¤r5ßnìñó%•2—JÁ(<0
+ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0ò4nëµÛpXŞæs·ÓÉ­Ó)oïFfÓírq[­ÊÛvëv¿»õzåí}ÀÈSnõº[­VŞâÛ(¶ø½¿û{€ñõ´Ûnç³ÛtŠ÷¼`|=­–Ûnç6á=/sˆ?OmyÀ˜CÜ!í÷xûçG·ûs ½z0¦PÌfş¹Ùxñßoşõê¶\â½z0¦P<|ôûÏW´?Å'±pğ^=…Æâ–ôxÌ~Ã˜Ãdâv8àwãq†§hó‹·Ûÿ‹ãµÀ˜_Ü~ÆÁí¯FáQx`…FáQx`…FáQx`…FáQx`…ÂüËY¯ğ—50'    IEND®B`‚‰PNG
+
+   IHDR   `   -   Q^nŠ   sRGB ®Îé   gAMA  ±üa   	pHYs  Ã  ÃÇo¨d  aIDATx^í×ÍêqÅñg¼ä%	)±‘ŠkPö6V{+à
+Üöó÷k6úÏÉòÌ<ÓQŸÔ÷ìæû|ŞR*s)ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0
+ŒÂ£ğÀX†[–åßhF¾ñØm6ËöwßíÜ^¯|ÿîõ#ßñèv¿ûrév»¹‡Å­`äë÷óƒüÿøÖë¹­VnŞc‚±šæs·çÓm2Á{L0VS«å6¸5›x	Æ²éÔ'×«g±ß0†}Eãóù÷	H?_Ó;#İ=h/ŒõÑíº=n›ŞËc}¤+»uğ^>cH—ôÿa½Æ{0ÆNÀéä¶ß·tån‹Eq«cøõ§­İv»\"Ü0Æ÷ëäTŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(æëÌ¯ÈX09    IEND®B`‚‰PNG
+
+   IHDR   `   -   Q^nŠ   sRGB ®Îé   gAMA  ±üa   	pHYs  Ã  ÃÇo¨d  dIDATx^íØ½®a…á=şÅ?Ñ¥DGá½BhTnÃmïc‘ãdV;Ë'³$OLŞ=š™/ŠmÏ]>Ê\>
+FáQx`…FáQx`…ÆòÈ2·fÓ­VÃóâÁXÕªÛåâ¶^ãyñ`,JÅm¹t›Lğ¼x0
+ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0~‡X# bµ0¸ÕëxÓ;t»ÏİÍ£eO'Ïæóüı£‘Ûíæ6›ågi1«•Ûõú·*ˆ½Ívû{µÛ>Úí<›Nÿÿ&4n‹…[«•Ÿ¥Æ4Ä‰?İÎççÃİâ´‡øşxI›Í7üí¼ƒ1¯Uq\nû}şw±T‹—•ş©czú}·^Ï^b³ëåøFó4Á(<0
+ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0
+…ùb°ÁK['    IEND®B`‚‰PNG
+
+   IHDR   `   -   Q^nŠ   sRGB ®Îé   gAMA  ±üa   	pHYs  Ã  ÃÇo¨d  VIDATx^í×½ŠÂ@Åñ?EÉŠXˆ •ø 6ö‚6ú ¾öİ„° Éísá?$ÿ™jŠ¹‰¿—|•¹|ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0
+Œ1L&n‹…[«…×c€1†İÎívsk·ñz0ÆĞï»FnYV=×ÿc€1–¿+h<v»\ÜæóætÁB6úÏóéÙjUµâÙ·<oìMŒ!dİ®çû½g±¼Æf3·í¶9„{=·Í¦šï=M0ÆP^=×kuàï½œ‡ÛrùÙÓcúŠëÇN§jàÖßzÊ¡<¸u:Ÿ=M0¦­<àãÑí~w›Nñ8`L[yçŸÏnë5^Æ´ÅúĞúŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(æ¿¹®|¦J^õ    IEND®B`‚‰PNG
+
+   IHDR   `   -   Q^nŠ   sRGB ®Îé   gAMA  ±üa   	pHYs  Ã  ÃÇo¨d  :IDATx^íØ±ŠÂ@…á»,b¡…XX‰"ˆØZ‰¾€OàSìkßu°ôï9¯ù¯U&3’ÄóúµŠ´Âh:M£é`4Œ¦ƒÑt0šFÓÁh:M£é`4Œ¦ƒÑt0~·å2c½ÎhkaünÇcÆùÌ3=ŒuèÆü_ëPàrÉØny^ŒõØí2Õcw£7ı~F¯÷Şë‚±;Êñr¿ãn&“üy<²ßfÁØm›1Ÿó<wF»Ùd3¾Úé”q8¼ı®ã0Ö§Qåÿ`µÊ˜Í^;§ã	cİÊKÖíæøˆ²®×Œı¾–÷Œõ*7½|j˜NyŞ=M£é`4Œ¦ƒÑt0šFÓÁh:M£é`4Œ¦ƒÑt0šFÓÁh:M"ò*t®ĞÑI«    IEND®B`‚‰PNG
+
+   IHDR   `   -   Q^nŠ   sRGB ®Îé   gAMA  ±üa   	pHYs  Ã  ÃÇo¨d  €IDATx^íÚKŠÂ@…áßˆ¢Æ™
+
+‚éÔ¸·ÑÛ¾mliúÛ“J<Â‡Ô%ñ‘B{<¾$Wæ’+…Fá±<*·Z-{FóüÁX½Ûåâ6áyş`,VËm³qëvñ<0
+ŒÂ£ğÀ(<0¾_’¼ ùç€ñı&·ÓÉ­ÓÁóÏãûn»]ö3Í?ŒÂ£ğÀ(<0
+ŒåĞï»Íf1ï„0SµêÖngÛÏa6áG€ğbá6âyØñ¼^İ¦Ólİh¸n«Õß×ÆÆ8…+û|v[¯³u¸²ÃIyŞM‡>Ÿÿ¾¹Ûïİ–Ë×:>0Æ)èfóç#&y¼ÒÛÍ“bßÌÁXIšú`»õ¤^‡ó‚€Qx`…Æx„/Øğ†ğÍ‹ÆxŒÇn÷{¶}æÅc<Â•şóî¶|`…FáQx`…FáQx`…FáQx`…F¡0ÿ¡Y°’ÑÂ³    IEND®B`‚‰PNG
+
+   IHDR   `   -   Q^nŠ   sRGB ®Îé   gAMA  ±üa   	pHYs  Ã  ÃÇo¨d  tIDATx^íØ»ŠA@Ñß(¢«ø@s100#C@S?c»vzÈ.7İš.(á ÜšhºzFÊß{¨”h¨Æ`c^z=•ÓIe:å¹oó’à|ÿc°ƒ1ØÁì`v0;ƒŒÁF_ŠBe2Qévy7Œ¾¤¸İTG•~Ÿ¯ÉF•û]e·ãy¾0ú”¾u:<ËF?†C•õZ¥Ñàyş0ú±Z©<wşŒ~¤ßn«Ôj<ÏÆ`£/éJİŒ.åóTÿ‹VçN`¬^ÚÕ•é9Ÿ|ïøb±Ğ·ÃA‹fóu?«—nòå¢²ß¿Úf£r½z>rŒÕK°\ªŒÇ¯6›©l·*õúïk}Ãì`v0;ƒŒùKGÏÑèëŸæ~`Ì_:=Ÿ*ó9ÏıÀ˜¿ôö[¾ˆ}~ˆ£¹ƒŒÁÆ`c°ƒ1ØÁì`v0;ƒŒÁÆ`c0!úÂè°€'ˆuÿ    IEND®B`‚‰PNG
+
+   IHDR   `   -   Q^nŠ   sRGB ®Îé   gAMA  ±üa   	pHYs  Ã  ÃÇo¨d  ^IDATx^íØ½ŠÂ@Åñ?@TÔX¨Ø‰¶"h'ø‚`%Ø‰Ïákßİ!•ì)—“¹á~Íÿ¦Ê0aû}>R+s©ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0
+ŒÂ£ğÀ(<0r…[»íÖjáy³ÁÈÕë¹=Ÿn›7Œ\İ®Ûnç6âyÚ§“ÛáPíôN\0æ%}ô×ËíıÖÔ"}ô´KÒ¯
+Ícƒ1_ã±Û|Ş¤ c¾G·ÇCP›~ßm2ÑÈ¿1„b±ğéíæÅ` çAÀB1›yy¹x‘~K`ŒÂc\éNi¿w[.ñ<?0æ/„®×¿×iîw·íö»çÆüFnç³[Y~÷xÇScëtÜÒÉ(í4ÏŒ±­×Õå]ŒÓŒ±‡n«Uu‡æyQx`…FáQx`…FáQx`…FáQx`
+óSœ¯òqO_Ç    IEND®B`‚‹      í½`I–%&/mÊ{JõJ×àt¡€`$Ø@ìÁˆÍæ’ìiG#)«*ÊeVe]f@Ìí¼÷Ş{ï½÷Ş{ï½÷º;N'÷ßÿ?\fdlöÎJÚÉ!€ªÈ?~|?"şÇ¿÷|Z4í8İ*¯ïüØ«ãtk–_Üù±§§'òÛoœìîíÿØî§÷Çïí}ªÏƒûtwüàş®{~ãäÁCnµÿáÃû÷øù±ûŸïìİ³Ïoœ¬ÔêÁŞı»oüéÃı{æ¡¯wl÷àŞøàş§;û»ÚÕıãêÚë
+­ŞßßùôÁCÛŠ¼ÿP;æ®üØŞÎÎøáÁ6B«ıñÃ½û
+š>`X{;»ã{;÷ÃV4ò|ùéø€ğ!t÷ïíŞ£–ò|ú'ÿ‰©DÒ=  
